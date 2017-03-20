@@ -16,3 +16,7 @@ The master lists will consist of observation stations that collect temperature d
 + `master_stations_ww.rds`
 + `master_stations_us50.rds`
 + `master_stations_us48.rds`
+
+##
+
+The project can be viewed on RPubs at: https://rpubs.com/tterryt2/wdea_pt1
